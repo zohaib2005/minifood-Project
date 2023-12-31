@@ -544,7 +544,7 @@ strong {
 /**********************/
 
 .footer {
-  padding: 9.6rem 0;
+  padding: 12.8rem 0;
 }
 
 .grid-footer {
@@ -554,7 +554,7 @@ strong {
 .logo-col {
   display: flex;
   flex-direction: column;
-  margin-top: auto;
+  /* margin-top: auto; */
 }
 
 .footer-logo {
