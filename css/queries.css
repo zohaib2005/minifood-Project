@@ -70,6 +70,8 @@ Instead, 1rem = 1em = 16px */
 
   .hero {
     grid-template-columns: 1fr;
+    padding: 0 8rem;
+    gap: 6.4rem;
   }
 
   .hero-text-box,
