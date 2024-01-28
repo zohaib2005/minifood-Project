@@ -71,4 +71,16 @@ Instead, 1rem = 1em = 16px */
   .hero {
     grid-template-columns: 1fr;
   }
+
+  .hero-text-box,
+  .hero-img-box {
+    text-align: center;
+  }
+
+  .hero-img {
+    width: 60%;
+  }
+  .delivered-meals {
+    justify-content: center;
+  }
 }
